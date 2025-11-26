@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(135deg, #e0eafc 0%, #cfdef3 100%);
+}
+.card {
+    border-radius: 1rem;
+}
+pre {
+    white-space: pre-wrap;
+    word-break: break-all;
+}
